@@ -1,8 +1,8 @@
 # Анализ данных видеоплатформы
-[ipynb]( "Заголовок ссылки") [презентация](https://disk.yandex.ru/i/4wdtu2oLHQowDg "презентация")
+[ipynb](https://github.com/Malakhova-Natalya/Personal_project/blob/main/violin_project/violin_project.ipynb "ipynb") [презентация](https://github.com/Malakhova-Natalya/Personal_project/blob/main/violin_project/violin_project.pdf "презентация")
 
 ## Описание	
-Сравнение своего личного youtube*-канала и каналов двух знаменитых скрипачей: Дэвида Гарретта и Ванессы Мэй. Создание собтсвенных метрик для анализа видео-контента и реакции аудитории
+Сравнение своего личного youtube*-канала и каналов двух знаменитых скрипачей: Дэвида Гарретта и Ванессы Мэй. Создание собтсвенных метрик для анализа видео-контента и реакции на него аудитории
 ## Навыки и инструменты
 - python 
 - pandas 
