@@ -1,4 +1,4 @@
-# Анализ данных видеоплатформы
+# Анализ данных видеоплатформы: скрипка
 [ipynb](https://github.com/Malakhova-Natalya/Personal_project/blob/main/violin_project/violin_project.ipynb "ipynb") [презентация](https://github.com/Malakhova-Natalya/Personal_project/blob/main/violin_project/violin_project.pdf "презентация")
 
 ## Описание	
