@@ -1,5 +1,5 @@
 # Анализ данных видеоплатформы
-[ipynb]( "ipynb") [презентация]( "презентация")
+[ipynb](https://github.com/Malakhova-Natalya/Personal_project/blob/main/english_project/english_project.ipynb "ipynb") [презентация](https://github.com/Malakhova-Natalya/Personal_project/blob/main/english_project/Презентация%20english_project.pdf "презентация")
 
 ## Описание	
 Анализ и сравнение видеоканалов различных онлайн-школ английского языка: Skyeng, Englex, Englishdom.
