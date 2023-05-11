@@ -1,5 +1,5 @@
 # Анализ данных видеоплатформы
-[ipynb]( "ipynb") [презентация]( "презентация")
+[ipynb](https://github.com/Malakhova-Natalya/Personal_project/blob/main/finance_project/finance_project.ipynb "ipynb") [презентация](https://github.com/Malakhova-Natalya/Personal_project/blob/main/finance_project/Презентация%20finance_project.pdf "презентация")
 
 ## Описание	
 Анализ и сравнение видеоканалов о финансах: 
