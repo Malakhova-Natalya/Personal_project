@@ -1,5 +1,5 @@
 # Анализ данных видеоплатформы
-[ipynb]( "ipynb") [презентация]( "презентация")
+[ipynb](https://github.com/Malakhova-Natalya/Personal_project/blob/main/different_channels/different_channels.ipynb "ipynb") [презентация](https://github.com/Malakhova-Natalya/Personal_project/blob/main/different_channels/Презентация%20different_channels.pdf "презентация")
 
 ## Описание	
 Анализ и сравнение реакции аудитории на различные по объёму и тематике youtube*-каналы. 
