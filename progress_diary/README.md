@@ -1,5 +1,5 @@
 # Дневник профессионального прогресса 
-[ipynb]( "ipynb") [презентация]("презентация")
+[ipynb](https://github.com/Malakhova-Natalya/Personal_project/blob/main/progress_diary/my_daily_progress.ipynb "ipynb") [HTML](https://github.com/Malakhova-Natalya/Personal_project/blob/main/progress_diary/my_daily_progress.html "HTML") [презентация](https://github.com/Malakhova-Natalya/Personal_project/blob/main/progress_diary/Презентация%20progress_diary_project.pdf"презентация")
 
 ## Описание	
 В данном проекте проводится фиксация, измерение и анализ моего ежедневного прогресса в занятиях SQL, Python и чтении профессиональной литературы.
