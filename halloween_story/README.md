@@ -3,3 +3,5 @@
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/halloween_story/03.png)
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/halloween_story/04.png)
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/halloween_story/05.png)
+![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/halloween_story/06.png)
+![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/halloween_story/07.png)
