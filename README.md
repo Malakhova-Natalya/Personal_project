@@ -12,8 +12,8 @@
 | [Анализ данных youtube* - разные каналы](https://github.com/Malakhova-Natalya/Personal_project/tree/main/different_channels "Анализ данных youtube* - разные каналы") | Анализ и сравнение реакции аудитории на различные по объёму и тематике каналы. Использование собственных метрик. Выявление закономерностей в реакции аудитории. | python, pandas, matplotlib, seaborn, анализ данных, визуализация |
 | [Анализ личного читательского дневника с 2018 по 2023 год](https://github.com/Malakhova-Natalya/Personal_project/tree/main/reading_diary_project "Анализ личного читательского дневника с 2018 по 2023 год") | Анализ своего личного читательского дневника, выявление характерных черт, закономерностей, изменений читательского опыта с годами | python, pandas, matplotlib, seaborn, анализ данных, визуализация |
 | [Анализ личного читательского дневника с 2018 по 2023 год](https://github.com/Malakhova-Natalya/Personal_project/tree/main/reading_diary_project "Анализ личного читательского дневника с 2018 по 2023 год") | Анализ своего личного читательского дневника, выявление характерных черт, закономерностей, изменений читательского опыта с годами | excel: формулы, графики, сводные таблицы |
-| [Дневник профессионального прогресса](https://github.com/Malakhova-Natalya/Personal_project/blob/main/progress_diary/README.md "Дневник профессионального прогресса") | Измерение ежедневного прогресса в прохождении курсов по Python и SQL, чтению профессиональной литературы | python, pandas, matplotlib, seaborn, анализ данных, визуализация |
-
+| [Дневник профессионального прогресса](https://github.com/Malakhova-Natalya/Personal_project/blob/main/progress_diary "Дневник профессионального прогресса") | Измерение ежедневного прогресса в прохождении курсов по Python и SQL, чтению профессиональной литературы | python, pandas, matplotlib, seaborn, анализ данных, визуализация |
+| [Страшная история из мира IT](https://github.com/Malakhova-Natalya/Personal_project/tree/main/halloween_story/README.md "Страшная история из мира IT") | "Если случилась беда...", или страшная история из мира IT | Visual Studio Code, dbt, github
 
 *РКН: сайт youtube нарушает законодательство РФ
 
