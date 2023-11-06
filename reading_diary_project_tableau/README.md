@@ -19,7 +19,7 @@
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/03.png)
 
 
-Здесь можно увидеть, сколько времени заняла та или иная книга
+Здесь можно увидеть, сколько времени заняло чтение той или иной книги (цвет обозначает скорость чтения)
 
 
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/04.png)
