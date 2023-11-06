@@ -3,7 +3,7 @@
 
 Дашборд: [здесь](https://public.tableau.com/app/profile/natalya.malakhova/viz/MyReadingDiary_16992005207370/MyReadingDiaryDashboard?publish=yes "здесь")
 
-Можно увидеть распределение авторов по странам (а также темам, авторам и многому другому)
+Можно увидеть распределение авторов по странам (а также типам, темам, языку и многому другому)
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/01.png)
 
 
