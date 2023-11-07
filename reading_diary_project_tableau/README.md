@@ -23,3 +23,8 @@
 
 
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/04.png)
+
+## Дашборд в Yandex DataLens
+
+Дашборд: [здесь](https://datalens.yandex.ru/5l8vifbefa88u-reading-diary "здесь")
+
