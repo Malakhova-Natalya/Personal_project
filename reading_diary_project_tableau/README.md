@@ -47,6 +47,8 @@
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/07.png)
 
 ## Дашборд в Yandex DataLens "Everyday English"
+**Тематика**: ежедневное отслеживание прогресса в чтении на английском
+
 
 Дашборд: [здесь](https://datalens.yandex.ru/ua1qsxql58o2j-everyday-english "здесь")
 
