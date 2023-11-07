@@ -51,3 +51,9 @@
 Дашборд: [здесь](https://datalens.yandex.ru/ua1qsxql58o2j-everyday-english "здесь")
 
 
+На данный момент текущие данные основаны на чтении книги Herbert Wells "The Invisible Man"
+
+
+![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/08.png)
+
+
