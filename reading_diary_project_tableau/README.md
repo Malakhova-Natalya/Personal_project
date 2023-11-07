@@ -58,4 +58,11 @@
 
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/08.png)
 
+## Дашборд в Power BI "My Everyday English"
+**Тематика**: ежедневное отслеживание прогресса в чтении на английском
 
+
+На данный момент текущие данные основаны на чтении книги Herbert Wells "The Invisible Man"
+
+
+![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/09.png)
