@@ -1,4 +1,4 @@
-## Дашборд в Tableau Public
+## Дашборд в Tableau Public "My Reading Diary"
 **Тема - личный читательский дневник**
 
 Дашборд: [здесь](https://public.tableau.com/app/profile/natalya.malakhova/viz/MyReadingDiary_16992005207370/MyReadingDiaryDashboard?publish=yes "здесь")
@@ -26,7 +26,7 @@
 
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/04.png)
 
-## Дашборд в Yandex DataLens
+## Дашборд в Yandex DataLens "Reading Diary"
 
 Дашборд: [здесь](https://datalens.yandex.ru/5l8vifbefa88u-reading-diary "здесь")
 
