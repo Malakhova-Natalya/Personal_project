@@ -29,8 +29,23 @@
 
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/11.png)
 
-Со временем дашборд можно видоизменять. Например, мне захотелось постепенно поднять средний объём чтения в день: выйти на уровень 10 страниц в день
+Со временем дашборд можно видоизменять. Например, мне захотелось постепенно поднять средний объём чтения в день: выйти на уровень 10 страниц в день, и я изменила пару графиков, чтобы отслеживать именно этот показатель.
 
+Дашборд (файл отчёта Power BI): [здесь](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/English%20Reading%20Diary%20Dashboard%204.pbix "здесь")
+
+
+Преимущества этого подхода (личный дашборд в Power BI):
+- обновляется нажатием одной кнопки (нам не нужно личего лишнего - источник данных: excel-файл на вашем компьютере)
+- легко менять фон - тоже буквально нажатием одной кнопки
+
+- 
+![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/12.png)
+
+
+![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/13.png)
+
+
+![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/14.png)
 
 
 
