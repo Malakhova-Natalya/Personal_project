@@ -50,10 +50,22 @@
 
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/14.png)
 
+## Дашборд в Yandex DataLens "Everyday English"
+
+На эту же тему есть вариант дашборда в другом инструменте. 
+
+Но мне он нравится меньше из-за сложностей в ежедневном обновлении данных (именно в таком личном случае) и из-за отстутствия фона (это очень персональный выбор)
+
+Дашборд: [здесь](https://datalens.yandex.ru/ua1qsxql58o2j-everyday-english "здесь")
+
+
+![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/08.png)
 
 
 ## Дашборд в Tableau Public "My Reading Diary"
 **Тема - личный читательский дневник**
+
+Это уже другие данные - читательский дневник за несколько лет (не именно на английском)
 
 Дашборд: [здесь](https://public.tableau.com/app/profile/natalya.malakhova/viz/MyReadingDiary_16992005207370/MyReadingDiaryDashboard?publish=yes "здесь")
 
@@ -102,15 +114,6 @@
 
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/07.png)
 
-## Дашборд в Yandex DataLens "Everyday English"
 
-
-Дашборд: [здесь](https://datalens.yandex.ru/ua1qsxql58o2j-everyday-english "здесь")
-
-
-На данный момент текущие данные основаны на чтении книги Herbert Wells "The Invisible Man"
-
-
-![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/08.png)
 
 
