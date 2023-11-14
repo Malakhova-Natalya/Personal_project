@@ -1,3 +1,39 @@
+## Дашборд в Power BI "My Everyday English"
+**Тематика: ежедневное отслеживание прогресса в чтении на английском**
+
+Что, если вы решили внедрить data-driven подход в своей частной жизни? Например, из абстрактного желания "читать больше, развивать свой английский" перейти к конкретным шагам? В этом поможет дашборд, который будет приятно открывать каждый день после своих занятий и  фиксации их результата в excel-файле. Теперь вы будете видеть свой прогресс!
+
+Дашборд (файл отчёта Power BI): [здесь](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/English%20Reading%20Diary%20Dashboard.pbix "здесь")
+
+Поскольку это не бизнес-проект, а личный, посвящённый хобби, здесь можно позволить себе большую свободу в оформлении
+
+
+Ведь в данном случае цель - чтобы такой дашборд было приятно открывать каждый день, и попадать при этом в свой личный, частный, мир
+
+![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/09.png)
+
+
+
+Дашборд (файл отчёта Power BI): [здесь](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/English%20Reading%20Diary%20Dashboard%202.pbix "здесь")
+
+Можно использовать в качестве фона тематические изображения (в данном случае - связанные с книгами)
+
+
+![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/10.png)
+
+Дашборд (файл отчёта Power BI): [здесь](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/English%20Reading%20Diary%20Dashboard%203.pbix "здесь")
+
+
+Или то, что просто радует глаз и мотивирует заниматься предметом (например, английский для путешествий)
+
+
+![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/11.png)
+
+Со временем дашборд можно видоизменять. Например, мне захотелось постепенно поднять средний объём чтения в день: выйти на уровень 10 страниц в день
+
+
+
+
 ## Дашборд в Tableau Public "My Reading Diary"
 **Тема - личный читательский дневник**
 
@@ -49,9 +85,7 @@
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/07.png)
 
 ## Дашборд в Yandex DataLens "Everyday English"
-**Тематика: ежедневное отслеживание прогресса в чтении на английском**
 
-Что, если вы решили внедрить data-driven подход в своей частной жизни? Например, из абстрактного желания "читать больше, развивать свой английский" перейти к конкретным шагам? В этом поможет дашборд, который будет приятно открывать каждый день после своих занятий и  фиксации их результата в excel-файле. Теперь вы будете видеть свой прогресс!
 
 Дашборд: [здесь](https://datalens.yandex.ru/ua1qsxql58o2j-everyday-english "здесь")
 
@@ -61,31 +95,4 @@
 
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/08.png)
 
-## Дашборд в Power BI "My Everyday English"
-**Тематика: ежедневное отслеживание прогресса в чтении на английском**
 
-Дашборд (файл отчёта Power BI): [здесь](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/English%20Reading%20Diary%20Dashboard.pbix "здесь")
-
-Поскольку это не бизнес-проект, а личный, посвящённый хобби, здесь можно позволить себе большую свободу в оформлении
-
-
-Ведь в данном случае цель - чтобы такой дашборд было приятно открывать каждый день, и попадать при этом в свой личный, частный, мир
-
-![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/09.png)
-
-
-
-Дашборд (файл отчёта Power BI): [здесь](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/English%20Reading%20Diary%20Dashboard%202.pbix "здесь")
-
-Можно использовать в качестве фона тематические изображения (в данном случае - связанные с книгами)
-
-
-![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/10.png)
-
-Дашборд (файл отчёта Power BI): [здесь](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/English%20Reading%20Diary%20Dashboard%203.pbix "здесь")
-
-
-Или то, что просто радует глаз и мотивирует заниматься предметом (например, английский для путешествий)
-
-
-![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/11.png)
