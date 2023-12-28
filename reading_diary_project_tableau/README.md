@@ -54,13 +54,13 @@
 
 На эту же тему есть вариант дашборда в другом инструменте. 
 
-Но мне он нравится меньше из-за сложностей в ежедневном обновлении данных (именно в таком личном случае) и из-за отстутствия фона (это очень персональный выбор)
-
-Дашборд: [здесь](https://datalens.yandex.ru/ua1qsxql58o2j-everyday-english "здесь")
-
+Первый вариант дашборда:
 
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/08.png)
 
+Обновлённый вариант дашборда: [здесь](https://datalens.yandex.ru/k9vdbph48oi48-my-everyday-english "здесь")
+
+![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/reading_diary_project_tableau/15.png)
 
 ## Дашборд в Tableau Public "My Reading Diary"
 **Тема - личный читательский дневник**
