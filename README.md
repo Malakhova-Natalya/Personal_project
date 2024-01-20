@@ -15,7 +15,7 @@
 | [Дневник профессионального прогресса](https://github.com/Malakhova-Natalya/Personal_project/blob/main/progress_diary "Дневник профессионального прогресса") | Измерение ежедневного прогресса в прохождении курсов по Python и SQL, чтению профессиональной литературы | python, pandas, matplotlib, seaborn, анализ данных, визуализация |
 | [Страшная история из мира IT](https://github.com/Malakhova-Natalya/Personal_project/tree/main/halloween_story/README.md "Страшная история из мира IT") | "Если случилась беда...", или страшная история на Хэллоуин | Visual Studio Code, dbt, github
 | [Дашборд My Reading Diary](https://github.com/Malakhova-Natalya/Personal_project/tree/main/reading_diary_project_tableau "Дашборд My Reading Diary") | Дашборды в разных BI-инструментах по данным личного читательского дневника | Tableau Public, Yandex DataLens
-| [Дашборд по ошибкам](https://github.com/Malakhova-Natalya/Personal_project/tree/main/error_report_project "Дашборд по ошибкам") | Дашборд по техническим ошибкам | Python, предобработка данных, трансформация файла, визуализация данных, Yandex Data Lens
+| [Дашборд по ошибкам](https://github.com/Malakhova-Natalya/Personal_project/tree/main/error_report_project "Дашборд по ошибкам") | Дашборд по техническим ошибкам на реальных (анонимизированных) данных| Python, предобработка данных, трансформация файла, визуализация данных, Yandex Data Lens
 
 *РКН: сайт youtube нарушает законодательство РФ
 
