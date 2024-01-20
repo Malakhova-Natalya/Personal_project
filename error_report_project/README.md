@@ -18,9 +18,25 @@
 
 **Шаг 2: дашборд Data Lens**
 
+В дашборде 3 вкладки:
+
+**1. основное**
+
+Основная информация по всему проекту
+
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/error_report_project/datalens_01_01.png)
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/error_report_project/datalens_01_02.png)
+
+**2. проекты**
+
+Детальное погружение по отдельным подпроектам
+
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/error_report_project/datalens_02_01.png)
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/error_report_project/datalens_02_02.png)
+
+**3. актуальное**
+
+Взгляд на последние измерения: где ошибки прибавились, а где убавились
+
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/error_report_project/datalens_03_01.png)
 ![cover](https://github.com/Malakhova-Natalya/Personal_project/blob/main/error_report_project/datalens_03_02.png)
