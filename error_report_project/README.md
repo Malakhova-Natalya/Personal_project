@@ -10,7 +10,7 @@
 **Шаг 1: скрипт на Python**
 
 
-Трансформация файла, предобработка данных
+Трансформация файла, предобработка данных + анонимность названий проектов для публичной демонстрации реальных данных
 
 
 Тетрадь Jupyter Notebook: [здесь](https://github.com/Malakhova-Natalya/Personal_project/blob/main/error_report_project/error_report_confluence.ipynb "здесь")
